@@ -1,6 +1,7 @@
 GIT
   remote: https://github.com/everypolitician/twitter_list
-  revision: 25087ee3d4b97a0bfeac37d9c915d018d1ce453b
+  revision: 7adf531beec4b2bff903c0f055764318376519dc
+  branch: remove-duplicate-twitter-dependency
   specs:
     twitter_list (0.0.1)
       twitter
